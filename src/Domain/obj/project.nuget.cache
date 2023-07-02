@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ojV5d3TVyLV3EvvU5WDROnYUyweVFLe6xHR5GOlVBfhBtB18/tY4ao16qqw5E1FYohSLFUN8O5rmfVIXzM8INg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alber\\Documents\\Proyecto\\TravelExplorer\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alber\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
